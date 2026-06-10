@@ -1,7 +1,7 @@
 class Writeme < Formula
   desc "Writeme CLI — open notes and query Writeme from the command line"
   homepage "https://writeme.dev"
-  version "1.0.10"
+  version "1.0.11"
   license "MIT"
 
   on_arm do
