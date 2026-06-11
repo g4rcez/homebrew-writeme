@@ -1,9 +1,9 @@
 cask "writeme" do
-  version "1.0.11"
+  version "1.0.12"
 
   on_arm do
     url "https://github.com/g4rcez/writeme-editor/releases/download/v#{version}/writeme-#{version}-arm64-unsigned.dmg"
-    sha256 "b14943579d17cbc981fb3014144c6b5fe34a23e3d1f9cf42ed1ce16e329e177a"
+    sha256 "c140d5431a473996cada24f258f96bc41325caf7dabcbb0150cf1d1e6e20f7c9"
   end
 
   name "Writeme"
